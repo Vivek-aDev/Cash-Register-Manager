@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
 
 .container{
     display: flex;
@@ -21,9 +21,9 @@ body{
 }
 
 .creater{
-    font-size: xx-large;
+    font-size: large;
     color: white;
-    font-family: 'MonteCarlo', cursive;
+    font-family: 'Secular One', sans-serif;
     font-weight: bolder;
 }
 .container{
