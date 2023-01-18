@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/60030641/213147745-82bc0b7d-4ef6-445d-8906-c611e0f17be1.png)
+
 # Cash Registor Manager
 
 ## About
